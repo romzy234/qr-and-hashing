@@ -1,0 +1,8 @@
+    <form action="/post" method="post">
+        <input type="text" name="message" id="">
+        <input type="password" name="password" id="">
+        <button type="submit">submit</button>
+    </form>               
+
+
+    <img src="./qr/<%=  image%>.png" alt="qr-code" srcset="">
